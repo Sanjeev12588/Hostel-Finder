@@ -14,7 +14,7 @@ A next-generation, mobile-first web portal for finding ideal hostels and roommat
 
 ![Hostel Finder Demo](public/screenshots/demo.png)
 
-🚀 **[Live Project Demo Link]([https://hostel-finder-master.web.app/](https://hostel-finder-r1n0ypihs-g-sanjeev-kumar.vercel.app/))** | 📖 **Detailed Docs:** [Architecture](docs/ARCHITECTURE.md) • [Database Schema](docs/DATABASE.md) • [APIs](docs/API.md) • [Security & Validation](docs/SECURITY.md)
+🚀 **[Live Project Demo Link]([https://hostel-finder-master.web.app/](https://hostel-finder-r1n0ypihs-g-sanjeev-kumar.vercel.app/])** | 📖 **Detailed Docs:** [Architecture](docs/ARCHITECTURE.md) • [Database Schema](docs/DATABASE.md) • [APIs](docs/API.md) • [Security & Validation](docs/SECURITY.md)
 
 ---
 
