@@ -92,11 +92,11 @@ export async function getFavoritesForClient(userId: string) {
 
 export { getFavoriteIdsForClient };
 
-export async function postHostelAction(formData: FormData): Promise<{ success: boolean; message: string; newAdId: string | undefined; }> {
+export async function postHostelAction(formData: FormData): Promise<{ success: boolean; message: string; newAdId?: string; }> {
     return postHostelActionFirebase(formData);
 }
 
-export async function postRoommateAction(formData: FormData): Promise<{ success: boolean; message: string; newAdId: string | undefined; }> {
+export async function postRoommateAction(formData: FormData): Promise<{ success: boolean; message: string; newAdId?: string; }> {
     return postRoommateActionFirebase(formData);
 }
 
